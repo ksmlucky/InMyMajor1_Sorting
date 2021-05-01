@@ -1,10 +1,10 @@
 # SortingAlgorithm
 여러가지 Sorting 알고리즘을 구현 후 Qt Creator를 사용하여 인테페이스 제작
 
-8가지 Sorting 알고리즘(Selection, Insertion, Bubble, Merge, Heap, Quick, Shell, Radix)을 
+- 8가지 Sorting 알고리즘(Selection, Insertion, Bubble, Merge, Heap, Quick, Shell, Radix)을 
 구현하여 하나의 인터페이스를 제작
    
-결과창의 오른쪽에는 알고리즘별 실행시간을 확인할 수 있음
+- 결과창의 오른쪽에는 알고리즘별 실행시간을 확인할 수 있음
 
 ## 프로그램 실행
 
