@@ -1,4 +1,4 @@
-# SortingAlgorithm
+# InMyMajor1_Sorting
 여러가지 Sorting 알고리즘을 구현 후 Qt Creator를 사용하여 인테페이스 제작
 
 - 8가지 Sorting 알고리즘(Selection, Insertion, Bubble, Merge, Heap, Quick, Shell, Radix)을 
